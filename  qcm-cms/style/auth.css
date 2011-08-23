@@ -1,0 +1,22 @@
+#formaut{
+		text-align:center;
+		margin-left:35%;
+		margin-right:35%;
+		border-style:ridge;
+		border-color:blue;
+		margin-top:10%;
+		font-family:cursive;
+    -moz-border-radius: 10px;
+		background-color:#318CE7;
+}
+
+.forgetpass{
+		font-size:60%;
+		text-align:right;
+		margin-left:30%;
+}
+
+h1{
+		color:#318CE7;
+		font-family:cursive;
+}
